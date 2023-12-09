@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Murad Najafli
+- 🌍 I'm from Baku, Azerbaijan
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Kotlin (Jetpack Compose)
-- 💞️ I’m looking to collaborate on innovative Android projects.
+- 💞️ I’m looking to collaborate on innovative Android projects
 - 📫 How to reach me: [www.linkedin.com/in/murad-najafli]
 
 <!---
