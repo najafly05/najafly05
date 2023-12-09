@@ -3,6 +3,7 @@
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Kotlin (Jetpack Compose)
 - 💞️ I’m looking to collaborate on innovative Android projects
+- 🚀 My first Google Play Store app: [https://play.google.com/store/apps/details?id=com.muradnajafli.moviely]
 - 📫 How to reach me: [www.linkedin.com/in/murad-najafli]
 
 <!---
